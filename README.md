@@ -1,2 +1,2 @@
 # deep-learning-and-tensorflow
-This repository contains practices for using Tensorflow and some deep learning projects.
+This repository contains practices for using Tensorflow building neural networks for classification.
